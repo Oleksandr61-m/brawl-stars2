@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+img,main{
+text-align:center;
+}
+
+p,header{
+text-align:left;
+}
+
+header{
+background-color:yellow;
+}
+
+p footer{
+background-color: yellow;
+}
+
+footer{
+color: aqua;
+background-color:yellow;
+}
+
+.title{
+background-color:orange;
+color:yellow;
+}
+
+.attack{
+background-color:red;
+}
+
+.super{
+background-color:yellow;
+}
